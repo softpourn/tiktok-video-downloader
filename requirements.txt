@@ -1,0 +1,2 @@
+Flask==<version>
+requests==<version>
